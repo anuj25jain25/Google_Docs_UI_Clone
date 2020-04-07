@@ -1,0 +1,55 @@
+.tox-menubar{
+    background: white !important;
+    display: flex !important;
+    align-items: flex-end !important;
+    position: relative !important;
+    border-bottom: 1px solid silver !important;
+}
+
+.doc-title{
+    position: absolute !important;
+    top: 0px !important;
+    left: 70px !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+}
+
+.doc-title-right{
+    margin-left: auto !important;
+    height: 70px !important;
+    display: flex;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.share-btn{
+    padding: 7px 10px !important;
+    color: white !important;
+    background: #1a8efb !important;
+    border-radius: 3px !important;
+    margin: 0px 10px !important;
+    cursor: pointer !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+}
+
+.avatar{
+    height: 30px !important;
+    width: 30px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background: teal !important;
+    color: white !important;
+    border-radius: 30px !important;
+    margin: 0px 10px !important;
+}
+
+.tox-tinymce{
+    flex: 1 !important;
+}
+
+.tox-sidebar-wrap{
+    background: grey !important;
+    padding: 5px 15% !important;
+}
